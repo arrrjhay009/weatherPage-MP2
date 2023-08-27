@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,300;9..40,400;9..40,600;9..40,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: auto;
+    background-color: #EEEEEE;
+    padding: 3em;
+    font-family: 'DM Sans', sans-serif;
+}
+
+/* .wrapper {
+    display: flex;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.sidebar {
+    width: 30%;
+    background: rgba(255, 255, 255, 0.815);
+    border-radius: 10px;
+}
+
+.main {
+    width: 70%;
+    background-color: #f6f6f8;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.nav__bar-ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+} */
