@@ -22,5 +22,8 @@
   "homepage": "https://github.com/arrrjhay009/weatherPage-MP2#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "postcss-import": "^15.1.0"
   }
 }
